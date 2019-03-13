@@ -1,10 +1,3 @@
-/*
-University of Liverpool
-Samir Al Gamri
-m7saag
-COMP517
-*/
-
 //Main Method
 public class SpellCardDealer {
 
