@@ -1,9 +1,3 @@
-/*
-University of Liverpool
-Samir Al Gamri
-m7saag
-COMP517
-*/
 
 import java.util.Random;
 
