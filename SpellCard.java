@@ -1,10 +1,3 @@
-/*
-University of Liverpool
-Samir Al Gamri
-m7saag
-COMP517
-*/
-
 //Card class with 2 attributes
 class SpellCard {
 private String element;
